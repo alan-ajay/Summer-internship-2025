@@ -1,11 +1,11 @@
 # Summer Internship 2025: Explorations in Quantum Computing
 
-Welcome to my repository for the Summer 2025 internship. This collection of Jupyter notebooks documents my work and research in the field of quantum computing, with a focus on developing and benchmarking novel quantum algorithms using Qiskit.
+Welcome to my repository for the Summer 2025 internship. This collection of Jupyter notebooks documents my work and research in the field of quantum computing.
 
 ## Project Overview
 This repository contains two main projects that explore different facets of quantum computation:
 
-* **Variational Quantum Algorithms (VQAs)**: A deep dive into solving combinatorial optimization problems, specifically the Max-Cut problem. The core of this project is the design of a novel "dynamic ansatz" aimed at improving the performance of the Variational Quantum Eigensolver (VQE).
+* **Variational Quantum Algorithms (VQAs)**: A look into solving combinatorial optimization problems, specifically the Max-Cut problem. The core of this project is the design of "dynamic ansatz" aimed at improving the performance of the Variational Quantum Eigensolver (VQE).
 * **Quantum Cryptography**: An implementation of a quantum sealed-bid auction protocol, demonstrating how quantum mechanics can be used for secure, multi-party computation without a trusted third party.
 
 ---
