@@ -1,4 +1,4 @@
-# Summer Internship 2025: Explorations in Quantum Computing
+# Summer Internship 2025: Explorations in Quantum Information
 
 Welcome to my repository for the Summer 2025 internship. This collection of Jupyter notebooks documents my work and research in the field of quantum computing.
 
@@ -50,18 +50,3 @@ This folder contains earlier iterations and foundational work related to the Var
 * `VQE_tutorial.ipynb`: An introductory notebook exploring the basics of VQE.
 * `max-cut_problem1.ipynb` & `max-cut_problem2.ipynb`: Initial explorations into solving the Max-Cut problem with standard VQE approaches.
 
----
-
-## Key Learnings & Future Work
-
-This internship provided deep insights into both practical algorithm design and theoretical quantum protocols.
-
-**Future Work**:
-
-* **Ansatz Engineering**:
-    * Test the dynamic ansatz on larger, more complex graphs.
-    * Analyze its performance on real noisy quantum hardware.
-    * Explore adaptive ansatz strategies where the circuit structure is modified based on optimizer feedback.
-* **Quantum Auction**:
-    * Implement the full auction protocol, including winner identification.
-    * Analyze the protocol's robustness against various forms of noise and potential attacks.
